@@ -15,7 +15,7 @@ At bablu hosters, we specialize in digital marketing solutions tailored to eleva
 - Responsive Web Design
 - SEO Techniques
 
-- <img width="1899" height="900" alt="image" src="https://github.com/user-attachments/assets/2a294d38-e286-4635-b311-a90d59cc7478" />
+- <img width="1912" height="903" alt="image" src="https://github.com/user-attachments/assets/2891c9af-1934-46ef-b9af-2f902352a105" />
 
 
 ## Features
