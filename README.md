@@ -17,7 +17,6 @@ At bablu hosters, we specialize in digital marketing solutions tailored to eleva
 
 - <img width="1912" height="903" alt="image" src="https://github.com/user-attachments/assets/2891c9af-1934-46ef-b9af-2f902352a105" />
 
-
 ## Features
 - Responsive design
 - Contact form handling
